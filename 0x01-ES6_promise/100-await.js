@@ -1,5 +1,5 @@
-import uploadPhoto from './5-photo-reject.js';
-import createUser from './4-user-promise.js';
+import uploadPhoto from './5-photo-reject';
+import createUser from './4-user-promise';
 
 const asyncUploadUser = async () => {
   try {
